@@ -1,80 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9,ffd6e8,fff0f6&height=200&section=header&text=Atifa%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9,ff8fc7,ff69b4&height=220&section=header&text=Atifa%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%E2%80%A2%20Code%20%E2%80%A2%20Create%20%E2%80%A2%20Learn&descAlignY=58&descSize=17"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Atifa+%F0%9F%8C%B8;Software+Engineering+Student+%F0%9F%92%BB;Learning+%7C+Building+%7C+Growing+%E2%9C%A8;Welcome+to+my+GitHub+%F0%9F%8E%80" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=idcatifa&label=Profile%20Visitors&color=ff69b4&style=for-the-badge" />
-
-</div>
-
-<br>
-
-## 🎀 About Me
-
-<img align="right" width="190" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-Hi! I'm **Atifa Khan**, a Software Engineering student who enjoys learning by building things.
-
-🌸 Exploring software development
-💻 Strengthening my programming fundamentals
-🧩 Interested in software design and development
-🚀 Learning through projects and experimentation
-📚 Always trying to improve one step at a time
-
-<br clear="right"/>
-
----
-
-## 💗 My Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=light" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Java+%E2%80%A2+C+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%9C%A8;%F0%9F%8E%80+Learning+%26+Building;%F0%9F%8C%B8+Turning+Ideas+Into+Code;%F0%9F%92%97+One+Line+At+A+Time"/>
 
 <br><br>
 
-### Tools & Development
+<img src="https://komarev.com/ghpvc/?username=idcatifa&label=%F0%9F%92%97%20profile%20views&color=ff69b4&style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio&theme=light" />
+</div>
+
+<br>
+
+<div align="center">
+
+🌷 ──────────────── 🎀 ──────────────── 🌷
+
+</div>
+
+## 🎀 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=light" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+💗 `code` &nbsp; ✦ &nbsp; `create` &nbsp; ✦ &nbsp; `learn` &nbsp; ✦ &nbsp; `repeat` 💗
 
 </div>
 
 ---
 
-## 🌷 Featured Projects
+## 🌸 𝑴𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
+
+<div align="center">
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 📰 News Blog CRUD
+### 🎀 News Blog CRUD
 
-A Python CRUD application designed to manage data through a simple and user-friendly interface.
-
-**Tech:** Python
+🩷 Python project  
+🌷 CRUD-based application  
+✨ Create • Read • Update • Delete
 
 <a href="https://github.com/idcatifa/news_blog_crud">
-<img src="https://img.shields.io/badge/View%20Project-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🏨 Hotel Reservation System
+### 🏩 Hotel Reservation System
 
-A project focused on developing a hotel reservation system and applying software development concepts.
+🩷 Java project  
+🌷 Reservation management  
+✨ Software design & development
 
 <a href="https://github.com/idcatifa/Hotel-Reservation-system">
-<img src="https://img.shields.io/badge/View%20Project-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -83,32 +77,30 @@ A project focused on developing a hotel reservation system and applying software
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### ☕ SADP Project
+### 🌸 SADP Project
 
-A Java project developed around Software Architecture and Design Patterns concepts.
-
-**Tech:** Java
+🩷 Java  
+🌷 Software architecture  
+✨ Design patterns & implementation
 
 <a href="https://github.com/idcatifa/SADP-PROJECT">
-<img src="https://img.shields.io/badge/View%20Project-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF85C1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🧩 Design Patterns
+### 🎀 Hotel Reservation Design Patterns
 
-Hotel Reservation System implementing multiple design patterns.
-
-`Singleton` `Factory` `Strategy` `Command`
-`Iterator` `Adapter` `Observer` `Facade`
-`Memento` `Composite`
+🩷 Java  
+🌷 10+ Design Patterns  
+✨ Singleton • Factory • Strategy • Observer
 
 <a href="https://github.com/idcatifa/Hotel-Reservation-System-Design-Patterns">
-<img src="https://img.shields.io/badge/View%20Project-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF85C1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -116,94 +108,60 @@ Hotel Reservation System implementing multiple design patterns.
 </tr>
 </table>
 
----
-
-## 🎓 What I'm Working On
-
-<div align="center">
-
-| 🌸 Area            | 💗 Focus                        |
-| ------------------ | ------------------------------- |
-| 💻 Programming     | Java • C • C++ • Python         |
-| 🧩 Software Design | Design Patterns & Architecture  |
-| 🚀 Projects        | Building practical applications |
-| 📚 Learning        | Improving fundamentals          |
-| 🌱 Growth          | Becoming a better developer     |
-
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=idcatifa&show_icons=true&hide_border=true&count_private=true&title_color=e75480&icon_color=ff69b4&text_color=555555&bg_color=fff5fa" />
+🌷 ˚₊‧꒰ა 💗 ໒꒱ ‧₊˚ 🌷
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcatifa&layout=compact&hide_border=true&title_color=e75480&text_color=555555&bg_color=fff5fa" />
+## 💕 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=idcatifa&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff69b4&icon_color=ff85c1&text_color=8a4961&rank_icon=github"/>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=idcatifa&hide_border=true&background=fff5fa&ring=e75480&fire=ff69b4&currStreakLabel=e75480&sideLabels=e75480&dates=777777" />
-
-</div>
-
----
-
-## 🌸 My GitHub Journey
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=idcatifa&bg_color=fff5fa&color=e75480&line=ff69b4&point=e75480&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🎀 A Little More About Me
-
-```text
-╭──────────────────────────────────────╮
-│                                      │
-│  💗 Learn something new              │
-│  💻 Build something useful           │
-│  🐛 Debug something annoying         │
-│  ✨ Improve what I built             │
-│  🌸 Repeat                           │
-│                                      │
-╰──────────────────────────────────────╯
-```
-
----
-
-## 💌 Let's Connect
-
-<div align="center">
-
-<a href="mailto:atifakhan588@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/idcatifa">
-<img src="https://img.shields.io/badge/GitHub-e75480?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🌷 Thanks for stopping by! 🌷
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=18&duration=3500&pause=1000&color=E75480&center=true&vCenter=true&width=500&lines=Keep+learning+%E2%9C%A8;Keep+building+%F0%9F%92%BB;Keep+growing+%F0%9F%8C%B8;One+step+at+a+time+%F0%9F%92%97" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcatifa&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff69b4&text_color=8a4961"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fff0f6,ffd6e8,ffb6d9&height=120&section=footer" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=idcatifa&hide_border=true&background=FFF0F7&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=8A4961&currStreakNum=FF69B4&sideNums=FF85C1"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🎀 𝑴𝒚 𝑪𝒐𝒅𝒊𝒏𝒈 𝑱𝒐𝒖𝒓𝒏𝒆𝒚
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=idcatifa&bg_color=fff0f7&color=ff69b4&line=ff85c1&point=ff69b4&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+🌸 ──────── 💗 ──────── 🎀 ──────── 💗 ──────── 🌸
+
+### 🩷 𝑪𝒐𝒏𝒏𝒆𝒄𝒕
+
+<a href="https://github.com/idcatifa">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:atifakhan588@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF85C1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+🎀 `made with code & a little bit of pink` 🎀
+
+<br>
+
+💗 ⋆｡°✩ 🌷 ✩°｡⋆ 💗
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ff8fc7,ffb6d9&height=120&section=footer"/>
