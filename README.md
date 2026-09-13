@@ -1,159 +1,90 @@
 <div align="center">
 
-<!-- 🌸 Animated Pink Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,50:f48fb1,100:d81b60&height=220&section=header&text=ATIFA%20KHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=20" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- 💗 Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=3000&pause=1000&color=D81B60&center=true&vCenter=true&width=700&lines=✨+Learning+%E2%80%A2+Building+%E2%80%A2+Improving+✨;💻+Software+Engineering+Student;🌸+Exploring+Web+%26+Android+Development;🤖+Interested+in+AI+%26+Data+Science;💗+Building+My+Journey+Step+by+Step" />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:fff0f6,25:ffc1d9,50:f48fb1,75:e91e63,100:ad1457&height=260&section=header&text=ATIFA%20KHAN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=20&animation=twinkling"
+width="100%"
+/>
 
 <br>
 
-<p>
-🌷 <b>Software Engineering Student</b> 🌷
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<a href="https://git.io/typing-svg">
+
+<img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=2500&pause=900&color=D81B60&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Hello%2C+I'm+Atifa+Khan+%F0%9F%8C%B8;Software+Engineering+Student+%F0%9F%92%BB;Building+Web+%26+Android+Projects+%F0%9F%93%B1;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%E2%9C%A8"
+alt="Typing SVG"
+/>
+
+</a>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     INTRO ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img
+src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=18&duration=3500&pause=1200&color=AD1457&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%E2%9C%A8+Learning+with+curiosity;%F0%9F%92%97+Building+with+purpose;%F0%9F%8C%B1+Growing+one+project+at+a+time"
+alt="Animated motto"
+/>
+
+<br><br>
 
 <p>
-💗 Learning • Building • Improving 💗
+  <img src="https://komarev.com/ghpvc/?username=idcatifa&label=Profile%20Views&color=e91e63&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/idcatifa?label=Followers&style=for-the-badge&color=f48fb1" />
+  <img src="https://img.shields.io/github/stars/idcatifa?label=Stars&style=for-the-badge&color=d81b60" />
 </p>
 
 </div>
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### 🎓 Who Am I?
 
-- 🌷 Software Engineering undergraduate
-- 💻 Interested in software development
-- 🎨 Love creating beautiful interfaces
-- 🧠 Improving problem-solving skills
-- 📚 Always learning something new
-- 🌱 Building projects step by step
+I'm **Atifa Khan**, a Software Engineering student who enjoys learning, experimenting, and building software projects.
+
+💻 Software Development  
+🌐 Web Development  
+📱 Android Development  
+🤖 Artificial Intelligence  
+📊 Data Science  
+🧪 Software Testing  
+🎨 UI/UX Design  
+
+I'm continuously working on improving my programming and problem-solving skills while exploring different areas of software engineering.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 💕 Development Interests
-
-- 💻 Software Development
-- 🌐 Web Development
-- 📱 Android Development
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🧪 Software Testing
-- 🎨 UI/UX Design
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🎀 Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C-ffc1d6?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-f48fb1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-df6f9f?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-c2185b?style=for-the-badge&logo=kotlin&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML-f8bbd0?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-ec407a?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-d81b60?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-ad1457?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Android-f48fb1?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-f06292?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-c2185b?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-e91e63?style=for-the-badge&logo=figma&logoColor=white"/>
-
-</p>
-
----
-
-## 🌸 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌷 GyanAdda
-
-📱 Android learning and quiz application.
-
-**Technologies**
-
-`Kotlin` `Android Studio`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 MediBot
-
-💬 AI-powered health chatbot project.
-
-**Technologies**
-
-`Python` `Flask` `AI`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📖 Surah Al-Kahf Website
-
-🌙 Islamic website project featuring Surah Al-Kahf.
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💗 Personal Portfolio
-
-🌸 Personal portfolio showcasing my skills and projects.
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🌱 Currently Learning
+### 💗 My Mindset
 
 ```text
-💻 Software Development
-🌐 Web Development
-📱 Android Development
-🤖 Artificial Intelligence
-📊 Data Science
-🧪 Software Testing
-🌐 Computer Networking
-🐙 Git & GitHub
+╭──────────────────────────╮
+│                          │
+│   🌱 LEARN               │
+│        ↓                 │
+│   💻 BUILD               │
+│        ↓                 │
+│   🐛 DEBUG               │
+│        ↓                 │
+│   ✨ IMPROVE             │
+│        ↓                 │
+│   🚀 GROW                │
+│                          │
+╰──────────────────────────╯
