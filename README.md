@@ -1,134 +1,89 @@
-                 ┌─────────────────────────────┐
-                 │       ✦ ATIFA KHAN ✦        │
-                 │                               │
-                 │   SOFTWARE ENGINEERING        │
-                 │       STUDENT                 │
-                 │                               │
-                 │  Learn • Build • Research    │
-                 └─────────────────────────────┘
+<!-- ========================================================= -->
+<!--                    ATIFA KHAN README                      -->
+<!-- ========================================================= -->
 
-       🖤 ───────────────────────────────── 🖤
+<div align="center">
 
-                 HELLO, I'M ATIFA
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D0B10&text=ATIFA%20KHAN&fontColor=F5D7E8&fontSize=58&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-       A Software Engineering student who
-       enjoys learning, building and exploring
-       technology.
+<br>
 
-       ┌─────────────────────────────────────┐
-       │  💻 SOFTWARE       🔬 RESEARCH      │
-       │  🤖 AI / ML        📊 DATA         │
-       └─────────────────────────────────────┘
+<!-- ANIMATED TYPING -->
+<a href="https://github.com/idcatifa">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=23&duration=2800&pause=900&color=E8A7C8&center=true&vCenter=true&width=750&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Research+%E2%80%A2+Grow;Software+Engineering+Student;Exploring+AI+%E2%80%A2+ML+%E2%80%A2+Data+Science;Building+Projects+One+Idea+at+a+Time;Curious+Mind+%7C+Creative+Builder+%7C+Continuous+Learner" />
+</a>
 
+<br>
 
-                 ABOUT ME
-       ╭──────────────────────────────────────╮
-       │                                      │
-       │  I am a Software Engineering student │
-       │  with a strong interest in technology│
-       │  programming and problem solving...  │
-       │                                      │
-       ╰──────────────────────────────────────╯
+<img src="https://komarev.com/ghpvc/?username=idcatifa&label=PROFILE+VIEWS&color=8B4A68&style=for-the-badge" />
 
+<br><br>
 
-                 TECH STACK
+[![GitHub](https://img.shields.io/badge/GitHub-idcatifa-18151C?style=for-the-badge&logo=github&logoColor=F5D7E8)](https://github.com/idcatifa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-8B4A68?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/idcatifa/AI-Portfolio)
+[![Status](https://img.shields.io/badge/Status-Always_Learning-B06A91?style=for-the-badge)](https://github.com/idcatifa)
 
-       ┌────────────┐ ┌────────────┐
-       │ PROGRAMMING│ │ WEB        │
-       │ C          │ │ HTML5      │
-       │ C++        │ │ CSS3       │
-       │ Python     │ │ JavaScript │
-       │ Kotlin     │ │ Flask      │
-       └────────────┘ └────────────┘
+</div>
 
-       ┌────────────┐ ┌────────────┐
-       │ APP DEV    │ │ TOOLS      │
-       │ Android    │ │ Git        │
-       │ Kotlin     │ │ GitHub     │
-       │ Android    │ │ VS Code    │
-       │ Studio     │ │ Figma      │
-       └────────────┘ └────────────┘
+---
 
+<div align="center">
 
-              🩸 PROJECT ARCHIVE 🩸
+### `✦ A LITTLE SPACE ON THE INTERNET THAT BELONGS TO ATIFA ✦`
 
-       ╭──────────────────────────────────────╮
-       │ 01  GYANADDA                         │
-       │                                      │
-       │ Educational Android application      │
-       │ designed to make learning interactive│
-       │ through quizzes and content.         │
-       │                                      │
-       │ Kotlin • Android • Android Studio   │
-       ╰──────────────────────────────────────╯
+> **Learn • Build • Research • Grow**
 
-       ╭──────────────────────────────────────╮
-       │ 02  MEDIBOT                          │
-       │                                      │
-       │ Health-focused conversational        │
-       │ chatbot exploring conversational AI. │
-       │                                      │
-       │ Python • Flask • AI                 │
-       ╰──────────────────────────────────────╯
+</div>
 
-       ╭──────────────────────────────────────╮
-       │ 03  SURAH AL-KAHF                   │
-       │                                      │
-       │ Digital web project presenting       │
-       │ Surah Al-Kahf through a clean        │
-       │ interface.                           │
-       │                                      │
-       │ HTML • CSS • JavaScript             │
-       ╰──────────────────────────────────────╯
+<br>
 
-       ╭──────────────────────────────────────╮
-       │ 04  PERSONAL PORTFOLIO              │
-       │                                      │
-       │ Responsive portfolio showcasing     │
-       │ my skills, projects, education,      │
-       │ interests and aspirations.           │
-       │                                      │
-       │ HTML • CSS • JavaScript • GitHub    │
-       ╰──────────────────────────────────────╯
+<!-- ========================================================= -->
+<!--                       ABOUT ME                             -->
+<!-- ========================================================= -->
 
+## 🌙 About Me
 
-                 🎓 EDUCATION
+Hi, I'm **Atifa Khan**, a Software Engineering student who enjoys learning, building, and exploring technology.
 
-       B.Sc. in Software Engineering
-       Undergraduate
+I'm interested in understanding how software works, solving problems, turning ideas into practical applications, and continuously expanding my knowledge.
 
-       Programming
-       Software Development
-       Databases
-       Artificial Intelligence
-       Networking
-       Software Testing
+My journey is not only about writing code. I believe becoming a good engineer also means understanding problems, researching solutions, experimenting with ideas, and continuing to learn.
 
+I'm especially interested in:
 
-              🌙 CURRENTLY LEARNING
+- 💻 Software Development
+- 🌐 Web Development
+- 📱 Application Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🔬 Research
+- 🧪 Software Testing
+- 🌐 Computer Networks
+- 🧩 Problem Solving
 
-       ✦ Programming fundamentals
-       ✦ Web & application development
-       ✦ Git & GitHub workflows
-       ✦ Artificial Intelligence
-       ✦ Data Science & Machine Learning
-       ✦ Problem solving
-       ✦ Software Testing
-       ✦ Research
+My long-term goal is to become a versatile **Software Engineer** who can combine technical knowledge, creativity, and research to create meaningful digital solutions.
 
+---
 
-                 🔮 ASPIRATIONS
+<!-- ========================================================= -->
+<!--                    PROFILE CARD                            -->
+<!-- ========================================================= -->
 
-       Software Engineer
-       Research
-       Data Science
-       AI / Machine Learning
-       Continuous Learning
-       Meaningful Technology
+<div align="center">
 
+<table>
+<tr>
+<td width="50%">
 
-       ═══════════════════════════════════════
+### 🖤 Developer Profile
 
-             LEARN • BUILD • RESEARCH • GROW
-
-       ═══════════════════════════════════════
+```text
+Name        → Atifa Khan
+Field       → Software Engineering
+Role        → Undergraduate Student
+Focus       → Software Development
+Interests   → AI • ML • Data • Research
+Mindset     → Learn • Build • Explore
+Goal        → Software Engineer
