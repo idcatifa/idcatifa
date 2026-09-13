@@ -1,236 +1,331 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08070A,38:27101C,72:6D183A,100:B52E61&height=285&section=header&text=ATIFA%20KHAN&fontSize=62&fontColor=FFF7FB&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=59&descSize=18&animation=twinkling" width="100%" alt="Atifa Khan — Software Engineering Student" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:6e0d25,100:1a0510&height=230&section=header&text=AI%20Portfolio&fontSize=55&fontColor=FF8FA3&fontAlignY=38&animation=fadeIn&desc=Atifa%20Khan%20%E2%80%A2%20Software%20Engineering%20Student&descAlignY=58&descSize=18&descColor=F5D6DE" width="100%"/>
 
-<br />
+<a href="https://github.com/idcatifa">
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=26&duration=3200&pause=900&color=FF4D6D&center=true&vCenter=true&width=700&height=60&lines=Software+Engineering+Student;Curious+Builder+%E2%80%A2+Lifelong+Learner;Exploring+AI+%2C+Data+%26+Research;Learn+%E2%80%A2+Build+%E2%80%A2+Research+%E2%80%A2+Grow" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=25&duration=2800&pause=900&color=EFA5C3&center=true&vCenter=true&width=820&height=58&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Research+%E2%80%A2+Grow;Curious+about+software%2C+data+and+ideas;Growing+one+project+at+a+time+%E2%99%A1" alt="Animated introduction" />
+<br/>
 
-<br />
-
-<a href="https://github.com/idcatifa"><img src="https://img.shields.io/badge/GitHub-idcatifa-160B12?style=for-the-badge&logo=github&logoColor=FBEAF2&labelColor=160B12" alt="GitHub: idcatifa" /></a>
-<a href="https://github.com/idcatifa/AI-Portfolio"><img src="https://img.shields.io/badge/Portfolio-AI--Portfolio-A12B58?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="AI-Portfolio repository" /></a>
+<img src="https://img.shields.io/badge/-Welcome%20to%20my%20portfolio-0d0208?style=for-the-badge&labelColor=1a0510&color=6e0d25" />
 
 </div>
 
-<br />
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B12,50:6D183A,100:160B12&height=70&text=ABOUT%20ME&fontColor=FBEAF2&fontSize=27&fontAlignY=53&animation=fadeIn" width="100%" alt="About Me" />
+[![GitHub](https://img.shields.io/badge/GitHub-idcatifa-0d0208?style=for-the-badge&logo=github&logoColor=FF8FA3&labelColor=1a0510)](https://github.com/idcatifa)
+[![Email](https://img.shields.io/badge/Email-atifakhan588%40gmail.com-0d0208?style=for-the-badge&logo=gmail&logoColor=FF8FA3&labelColor=1a0510)](mailto:atifakhan588@gmail.com)
 
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0510,100:6e0d25&height=3&section=header" width="100%"/>
 
-> A curious Software Engineering student who enjoys learning, building, and exploring technology. I am passionate about software development and interested in discovering the possibilities of AI, data science, and research.
+<br/>
 
-I enjoy learning how software works and turning ideas into practical applications and websites. For me, becoming a good engineer means more than writing code: it means understanding problems, researching solutions, experimenting with new technologies, and continuously learning.
+## 🖤 A Little About Me
+
+> A curious Software Engineering student who enjoys learning, building and exploring technology — passionate about software development and interested in discovering the possibilities of AI, data science and research.
+
+I am a Software Engineering student with a strong interest in technology, programming and problem solving. I enjoy learning how software works and turning ideas into practical applications and websites. My journey in software engineering is continuously growing — I believe that becoming a good engineer is not only about writing code, but also about understanding problems, researching solutions and continuously learning.
+
+I enjoy exploring different areas of technology, including web development, application development, artificial intelligence, data science and software engineering, and I'm particularly interested in expanding my knowledge beyond classroom learning through personal projects, experimenting with new technologies, and eventually contributing to research-oriented work.
+
+My long-term aim is to become a versatile software engineer who can combine technical knowledge, creativity and research to solve real-world problems and create meaningful digital solutions.
+
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=18&duration=2300&pause=750&color=D786A9&center=true&vCenter=true&width=820&height=44&lines=Software+Engineering+%E2%9C%A6+AI+%E2%9C%A6+Data+Science+%E2%9C%A6+Research;Web+Development+%E2%9C%A6+Application+Development+%E2%9C%A6+Problem+Solving;Learning+%E2%80%A2+Building+Projects+%E2%80%A2+Growing" alt="Animated interests" />
+<img src="https://img.shields.io/badge/💻_Field-Software_Engineering-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="42"/>
+<img src="https://img.shields.io/badge/🔬_Interests-AI_·_Data_Science_·_Research-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="42"/>
+<br/>
+<img src="https://img.shields.io/badge/🌱_Currently-Learning_&_Building_Projects-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="42"/>
+<img src="https://img.shields.io/badge/🎯_Career_Goal-Future_Software_Engineer-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="42"/>
 
 </div>
 
-My long-term aim is to become a versatile software engineer who combines technical knowledge, creativity, and research to solve real-world problems and create meaningful digital solutions.
+<br/>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0510,100:6e0d25&height=3&section=header" width="100%"/>
+
+<br/>
+
+## 🩸 Skills & Technologies
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B12,50:6D183A,100:160B12&height=70&text=SKILLS%20%26%20TECHNOLOGIES&fontColor=FBEAF2&fontSize=27&fontAlignY=53&animation=fadeIn" width="100%" alt="Skills and Technologies" />
+**Programming Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,js&theme=dark" />
 
-<br /><br />
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=19&duration=2200&pause=700&color=EFA5C3&center=true&vCenter=true&width=760&height=42&lines=Programming+Languages;Web+Development;Application+Development;Tools+%26+Technologies" alt="Animated skill categories" />
+**Web Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark" />
+<br/>
+<sub>+ Responsive Design</sub>
 
-<br />
+<br/><br/>
 
-<a href="#skills"><img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,js,html,css,flask,androidstudio,git,github,vscode,figma&theme=dark&perline=13" alt="C, C++, Python, Kotlin, JavaScript, HTML, CSS, Flask, Android Studio, Git, GitHub, VS Code and Figma" /></a>
+**Application Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
+<br/>
+<sub>Android Development · UI Design</sub>
 
-<br /><br />
+<br/><br/>
 
-<img src="https://img.shields.io/badge/PROGRAMMING-C%20%C2%B7%20C%2B%2B%20%C2%B7%20Python%20%C2%B7%20Kotlin%20%C2%B7%20JavaScript-3B1426?style=for-the-badge&labelColor=6D183A" alt="Programming: C, C++, Python, Kotlin, JavaScript" />
+**Tools & Technologies**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark" />
+<br/>
+<sub>+ XAMPP</sub>
 
-<br />
+<br/><br/>
 
-<img src="https://img.shields.io/badge/WEB-HTML5%20%C2%B7%20CSS3%20%C2%B7%20JavaScript%20%C2%B7%20Flask%20%C2%B7%20Responsive%20Design-3B1426?style=for-the-badge&labelColor=6D183A" alt="Web: HTML5, CSS3, JavaScript, Flask, Responsive Design" />
+**Areas of Interest**
 
-<br />
-
-<img src="https://img.shields.io/badge/APPLICATIONS-Android%20Development%20%C2%B7%20Kotlin%20%C2%B7%20Android%20Studio%20%C2%B7%20UI%20Design-3B1426?style=for-the-badge&labelColor=6D183A" alt="Applications: Android Development, Kotlin, Android Studio, UI Design" />
-
-<br />
-
-<img src="https://img.shields.io/badge/TOOLS-Git%20%C2%B7%20GitHub%20%C2%B7%20VS%20Code%20%C2%B7%20Android%20Studio%20%C2%B7%20Figma%20%C2%B7%20XAMPP-3B1426?style=for-the-badge&labelColor=6D183A" alt="Tools: Git, GitHub, VS Code, Android Studio, Figma, XAMPP" />
+<img src="https://img.shields.io/badge/Software_Engineering-1a0510?style=flat-square&labelColor=0d0208&color=8b0000" height="28"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-1a0510?style=flat-square&labelColor=0d0208&color=8b0000" height="28"/>
+<img src="https://img.shields.io/badge/Machine_Learning-1a0510?style=flat-square&labelColor=0d0208&color=8b0000" height="28"/>
+<img src="https://img.shields.io/badge/Data_Science-1a0510?style=flat-square&labelColor=0d0208&color=8b0000" height="28"/>
+<br/>
+<img src="https://img.shields.io/badge/Research-1a0510?style=flat-square&labelColor=0d0208&color=8b0000" height="28"/>
+<img src="https://img.shields.io/badge/Problem_Solving-1a0510?style=flat-square&labelColor=0d0208&color=8b0000" height="28"/>
+<img src="https://img.shields.io/badge/Software_Testing-1a0510?style=flat-square&labelColor=0d0208&color=8b0000" height="28"/>
+<img src="https://img.shields.io/badge/Computer_Networks-1a0510?style=flat-square&labelColor=0d0208&color=8b0000" height="28"/>
 
 </div>
 
-<br />
+<br/>
+
+### 🌍 Languages I Speak
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=18&duration=2400&pause=800&color=D786A9&center=true&vCenter=true&width=900&height=45&lines=Software+Engineering+%E2%9C%A6+Artificial+Intelligence+%E2%9C%A6+Machine+Learning;Data+Science+%E2%9C%A6+Research+%E2%9C%A6+Problem+Solving;Software+Testing+%E2%9C%A6+Computer+Networks" alt="Animated areas of interest" />
+<img src="https://img.shields.io/badge/Bangla-Native-6e0d25?style=for-the-badge&labelColor=0d0208" height="40"/>
+<img src="https://img.shields.io/badge/English-Fluent-6e0d25?style=for-the-badge&labelColor=0d0208" height="40"/>
+<img src="https://img.shields.io/badge/French-Basic_/_Learning-6e0d25?style=for-the-badge&labelColor=0d0208" height="40"/>
 
 </div>
 
-<br />
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0510,100:6e0d25&height=3&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B12,50:6D183A,100:160B12&height=70&text=LANGUAGES&fontColor=FBEAF2&fontSize=27&fontAlignY=53&animation=fadeIn" width="100%" alt="Languages" />
+<br/>
 
-<br /><br />
+## 🕯️ Where I Want to Go
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=2600&pause=900&color=EFA5C3&center=true&vCenter=true&width=700&height=45&lines=Bangla+%E2%80%94+Native;English+%E2%80%94+Fluent;French+%E2%80%94+Basic+%2F+Learning" alt="Animated language levels" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B12,50:6D183A,100:160B12&height=70&text=ASPIRATIONS&fontColor=FBEAF2&fontSize=27&fontAlignY=53&animation=fadeIn" width="100%" alt="Aspirations" />
-
-<br /><br />
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=20&duration=2200&pause=800&color=EFA5C3&center=true&vCenter=true&width=900&height=48&lines=Build+useful+and+reliable+software;Investigate+problems+and+contribute+new+ideas;Use+data+to+understand+problems+and+support+decisions;Study+AI+and+machine+learning+more+deeply" alt="Animated aspirations" />
-
-</div>
-
-<br />
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Become a Software Engineer
+My primary goal is to become a skilled software engineer capable of designing, developing and maintaining useful and reliable software.
 
-Become a skilled software engineer capable of designing, developing, and maintaining useful and reliable software.
+</td>
+<td width="50%" valign="top">
 
 ### 🔬 Explore Research
+I want to explore research-oriented areas of technology and develop the ability to investigate problems and contribute to new ideas.
 
-Explore research-oriented areas of technology, investigate problems, and contribute to new ideas.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 Learn Data Science
+I am interested in data science, data analysis, machine learning and using data to understand problems and support better decisions.
 
-Learn data science, data analysis, and machine learning, using data to understand problems and support better decisions.
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 Explore AI & ML
+Artificial intelligence and machine learning are areas I would like to study more deeply through future projects and research.
 
-Study artificial intelligence and machine learning more deeply through future projects and research.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌱 Keep Learning
+Technology constantly changes, so one of my biggest goals is to remain curious and continuously improve my technical and problem-solving abilities.
 
-Remain curious and continuously improve technical and problem-solving abilities as technology changes.
+</td>
+<td width="50%" valign="top">
 
 ### 🌍 Build Meaningful Work
+I hope to work on projects that are useful, meaningful and capable of creating positive impact through technology.
 
-Work on useful, meaningful projects that can create positive impact through technology.
+</td>
+</tr>
+</table>
 
-<br />
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0510,100:6e0d25&height=3&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B12,50:6D183A,100:160B12&height=70&text=FEATURED%20PROJECTS&fontColor=FBEAF2&fontSize=27&fontAlignY=53&animation=fadeIn" width="100%" alt="Featured Projects" />
+<br/>
 
-<br /><br />
+## 🥀 Featured Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=2300&pause=750&color=EFA5C3&center=true&vCenter=true&width=820&height=46&lines=Created+while+learning%2C+experimenting%2C+and+building;Four+projects+%E2%80%A2+one+growing+journey" alt="Animated projects introduction" />
+<br/>
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br />
-
-### 01 · 📚 GyanAdda
-
+### 📚 01 · GyanAdda
 An educational Android application designed to make learning more interactive through quizzes and educational content.
 
-<img src="https://img.shields.io/badge/Kotlin-6D183A?style=flat-square&logo=kotlin&logoColor=FFFFFF" alt="Kotlin" /> <img src="https://img.shields.io/badge/Android-6D183A?style=flat-square&logo=android&logoColor=FFFFFF" alt="Android" /> <img src="https://img.shields.io/badge/Android%20Studio-6D183A?style=flat-square&logo=androidstudio&logoColor=FFFFFF" alt="Android Studio" />
+<img src="https://img.shields.io/badge/Kotlin-1a0510?style=flat-square&logo=kotlin&logoColor=FF8FA3&labelColor=0d0208"/>
+<img src="https://img.shields.io/badge/Android-1a0510?style=flat-square&logo=android&logoColor=FF8FA3&labelColor=0d0208"/>
+<img src="https://img.shields.io/badge/Android_Studio-1a0510?style=flat-square&logo=androidstudio&logoColor=FF8FA3&labelColor=0d0208"/>
 
-### 02 · 🤖 MediBot
+</td>
+<td width="50%" valign="top">
 
+### 🤖 02 · MediBot
 A health-focused conversational chatbot project built with Python and Flask, created as an exploration of conversational AI.
 
-<img src="https://img.shields.io/badge/Python-6D183A?style=flat-square&logo=python&logoColor=FFFFFF" alt="Python" /> <img src="https://img.shields.io/badge/Flask-6D183A?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask" /> <img src="https://img.shields.io/badge/AI-6D183A?style=flat-square" alt="AI" />
+<img src="https://img.shields.io/badge/Python-1a0510?style=flat-square&logo=python&logoColor=FF8FA3&labelColor=0d0208"/>
+<img src="https://img.shields.io/badge/Flask-1a0510?style=flat-square&logo=flask&logoColor=FF8FA3&labelColor=0d0208"/>
+<img src="https://img.shields.io/badge/AI-1a0510?style=flat-square&labelColor=0d0208&color=8b0000"/>
 
-### 03 · 📖 Surah Al-Kahf Website
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 📖 03 · Surah Al-Kahf Website
 A web project presenting Surah Al-Kahf through a clean and simple digital interface using front-end technologies.
 
-<img src="https://img.shields.io/badge/HTML-6D183A?style=flat-square&logo=html5&logoColor=FFFFFF" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-6D183A?style=flat-square&logo=css3&logoColor=FFFFFF" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-6D183A?style=flat-square&logo=javascript&logoColor=FFFFFF" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML-1a0510?style=flat-square&logo=html5&logoColor=FF8FA3&labelColor=0d0208"/>
+<img src="https://img.shields.io/badge/CSS-1a0510?style=flat-square&logo=css3&logoColor=FF8FA3&labelColor=0d0208"/>
+<img src="https://img.shields.io/badge/JavaScript-1a0510?style=flat-square&logo=javascript&logoColor=FF8FA3&labelColor=0d0208"/>
 
-### 04 · 💗 Personal Portfolio
+</td>
+<td width="50%" valign="top">
 
-A responsive portfolio website created to showcase skills, projects, education, interests, and future aspirations.
+### 💗 04 · Personal Portfolio *(this repo)*
+A responsive portfolio website created to showcase my skills, projects, education, interests and future aspirations.
 
-<img src="https://img.shields.io/badge/HTML-6D183A?style=flat-square&logo=html5&logoColor=FFFFFF" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-6D183A?style=flat-square&logo=css3&logoColor=FFFFFF" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-6D183A?style=flat-square&logo=javascript&logoColor=FFFFFF" alt="JavaScript" /> <img src="https://img.shields.io/badge/GitHub-6D183A?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/HTML-1a0510?style=flat-square&logo=html5&logoColor=FF8FA3&labelColor=0d0208"/>
+<img src="https://img.shields.io/badge/CSS-1a0510?style=flat-square&logo=css3&logoColor=FF8FA3&labelColor=0d0208"/>
+<img src="https://img.shields.io/badge/JavaScript-1a0510?style=flat-square&logo=javascript&logoColor=FF8FA3&labelColor=0d0208"/>
+<img src="https://img.shields.io/badge/GitHub-1a0510?style=flat-square&logo=github&logoColor=FF8FA3&labelColor=0d0208"/>
 
-<br />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0510,100:6e0d25&height=3&section=header" width="100%"/>
+
+<br/>
+
+## ⚰️ My Academic Journey
+
+<table>
+<tr>
+<td width="14%" align="center" valign="top">🎓</td>
+<td width="86%">
+
+**CURRENT · UNDERGRADUATE**
+### B.Sc. in Software Engineering
+Currently pursuing my undergraduate degree in Software Engineering. My studies are helping me build foundations in programming, software development, databases, artificial intelligence, networking, software testing and other areas of computing.
+
+</td>
+</tr>
+<tr>
+<td width="14%" align="center" valign="top">🌱</td>
+<td width="86%">
+
+**FUTURE DIRECTION**
+### Software Engineering · Research · Data
+I aim to continue developing my technical knowledge while exploring research, artificial intelligence, machine learning and data science.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0510,100:6e0d25&height=3&section=header" width="100%"/>
+
+<br/>
+
+## 🌸 Growing My Knowledge — Currently Learning
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B12,50:6D183A,100:160B12&height=70&text=EDUCATION%20%26%20DIRECTION&fontColor=FBEAF2&fontSize=27&fontAlignY=53&animation=fadeIn" width="100%" alt="Education and Direction" />
-
-<br /><br />
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=20&duration=2500&pause=800&color=EFA5C3&center=true&vCenter=true&width=860&height=46&lines=Current+%E2%80%94+B.Sc.+in+Software+Engineering;Future+Direction+%E2%80%94+Software+Engineering+%E2%9C%A6+Research+%E2%9C%A6+Data" alt="Animated education information" />
+<img src="https://img.shields.io/badge/🌸_Strengthening_programming_fundamentals-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="38"/>
+<img src="https://img.shields.io/badge/🌸_Building_web_&_application_projects-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="38"/>
+<br/>
+<img src="https://img.shields.io/badge/🌸_Learning_Git_&_GitHub_workflows-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="38"/>
+<img src="https://img.shields.io/badge/🌸_Exploring_Artificial_Intelligence-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="38"/>
+<br/>
+<img src="https://img.shields.io/badge/🌸_Exploring_Data_Science_&_Machine_Learning-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="38"/>
+<img src="https://img.shields.io/badge/🌸_Improving_problem--solving_skills-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="38"/>
+<br/>
+<img src="https://img.shields.io/badge/🌸_Learning_more_about_software_testing-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="38"/>
+<img src="https://img.shields.io/badge/🌸_Exploring_research_opportunities-1a0510?style=for-the-badge&labelColor=0d0208&color=6e0d25" height="38"/>
 
 </div>
 
-<br />
+<br/>
 
-Currently pursuing an undergraduate degree in Software Engineering. My studies are building foundations in programming, software development, databases, artificial intelligence, networking, software testing, and other areas of computing.
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0510,100:6e0d25&height=3&section=header" width="100%"/>
 
-I aim to continue developing my technical knowledge while exploring research, artificial intelligence, machine learning, and data science.
+<br/>
 
-<br />
+## 🕸️ GitHub Activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B12,50:6D183A,100:160B12&height=70&text=CURRENTLY%20LEARNING&fontColor=FBEAF2&fontSize=27&fontAlignY=53&animation=fadeIn" width="100%" alt="Currently Learning" />
+<img src="https://github-readme-stats.vercel.app/api?username=idcatifa&show_icons=true&hide_title=true&hide_border=true&bg_color=0d0208&title_color=FF4D6D&icon_color=FF4D6D&text_color=F5D6DE&ring_color=6e0d25" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcatifa&layout=compact&hide_border=true&bg_color=0d0208&title_color=FF4D6D&text_color=F5D6DE&langs_count=8" width="45%"/>
 
-<br /><br />
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=18&duration=2100&pause=700&color=D786A9&center=true&vCenter=true&width=900&height=46&lines=Strengthening+programming+fundamentals;Building+web+and+application+projects;Learning+Git+and+GitHub+workflows;Exploring+Artificial+Intelligence;Exploring+Data+Science+%26+Machine+Learning;Improving+problem-solving+skills;Learning+more+about+software+testing;Exploring+research+opportunities" alt="Animated current learning list" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=idcatifa&hide_border=true&background=0D0208&ring=FF4D6D&fire=8B0000&currStreakLabel=FF8FA3&sideLabels=F5D6DE&currStreakNum=F5D6DE&sideNums=F5D6DE&dates=6e0d25" width="65%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/idcatifa/AI-Portfolio/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<sub>🐍 Live contribution snake — animates automatically once the workflow below runs on GitHub</sub>
 
 </div>
 
-<br />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0510,100:6e0d25&height=3&section=header" width="100%"/>
+
+<br/>
+
+## ♡ Let's Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B12,50:6D183A,100:160B12&height=70&text=GITHUB%20ACTIVITY&fontColor=FBEAF2&fontSize=27&fontAlignY=53&animation=fadeIn" width="100%" alt="GitHub Activity" />
+I am always interested in learning, exploring new ideas and connecting with people who share an interest in technology and software development.
 
-<br /><br />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=idcatifa&show_icons=true&hide_border=true&bg_color=0D0910&title_color=F0A0C1&icon_color=D06291&text_color=F7EAF0&ring_color=B52E61" height="175" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcatifa&layout=compact&hide_border=true&bg_color=0D0910&title_color=F0A0C1&text_color=F7EAF0" height="175" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=idcatifa&bg_color=0D0910&color=F7EAF0&line=B52E61&point=F0A0C1&area=true&hide_border=true" width="96%" alt="Contribution activity graph" />
-
-<br /><br />
-
-<!-- Generated by .github/workflows/snake.yml after GitHub Actions runs. -->
-<img src="https://raw.githubusercontent.com/idcatifa/AI-Portfolio/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+[![GitHub](https://img.shields.io/badge/GitHub-idcatifa-0d0208?style=for-the-badge&logo=github&logoColor=FF8FA3&labelColor=1a0510)](https://github.com/idcatifa)
+[![Gmail](https://img.shields.io/badge/Email-atifakhan588%40gmail.com-0d0208?style=for-the-badge&logo=gmail&logoColor=FF8FA3&labelColor=1a0510)](mailto:atifakhan588@gmail.com)
 
 </div>
 
-<br />
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0510,50:6e0d25,100:0d0208&height=150&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Research%20%E2%80%A2%20Grow&fontSize=22&fontColor=FF8FA3&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160B12,50:6D183A,100:160B12&height=70&text=LET%27S%20CONNECT&fontColor=FBEAF2&fontSize=27&fontAlignY=53&animation=fadeIn" width="100%" alt="Let's Connect" />
-
-<br /><br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=2800&pause=900&color=EFA5C3&center=true&vCenter=true&width=800&height=46&lines=Interested+in+learning%2C+new+ideas%2C+and+technology;Let%27s+connect+%E2%99%A1" alt="Animated contact message" />
-
-<br />
-
-<a href="https://github.com/idcatifa"><img src="https://img.shields.io/badge/Visit_on_GitHub-idcatifa-B52E61?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Visit idcatifa on GitHub" /></a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08070A,38:27101C,72:6D183A,100:B52E61&height=165&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Research%20%E2%80%A2%20Grow&fontSize=25&fontColor=FFF7FB&fontAlignY=66&animation=twinkling" width="100%" alt="Learn, Build, Research, Grow" />
+<p align="center"><sub>© 2026 Atifa Khan · Built with HTML, CSS &amp; JavaScript ♡</sub></p>
 
 </div>
