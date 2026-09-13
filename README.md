@@ -1,72 +1,102 @@
-        ┌─────────────────────────────────────────────┐
-        │                                             │
-        │             ATIFA KHAN                      │
-        │       SOFTWARE ENGINEERING STUDENT          │
-        │                                             │
-        │    "Learn • Build • Research • Grow"        │
-        │                                             │
-        └─────────────────────────────────────────────┘
+                 ┌─────────────────────────────┐
+                 │       ✦ ATIFA KHAN ✦        │
+                 │                               │
+                 │   SOFTWARE ENGINEERING        │
+                 │       STUDENT                 │
+                 │                               │
+                 │  Learn • Build • Research    │
+                 └─────────────────────────────┘
 
-              ░▒▓█ SYSTEM INITIALIZED █▓▒░
+       🖤 ───────────────────────────────── 🖤
 
-       ┌───────────────┐      ┌─────────────────────┐
-       │  ◉ ONLINE     │      │  CURRENT OBJECTIVE  │
-       │  ▓▓▓▓▓▓▓ 87%  │      │  SOFTWARE ENGINEER │
-       └───────────────┘      └─────────────────────┘
+                 HELLO, I'M ATIFA
 
-                    👁️ ABOUT THE DEVELOPER
+       A Software Engineering student who
+       enjoys learning, building and exploring
+       technology.
 
-     I'm Atifa — a Software Engineering student
-     learning to turn ideas into actual software.
+       ┌─────────────────────────────────────┐
+       │  💻 SOFTWARE       🔬 RESEARCH      │
+       │  🤖 AI / ML        📊 DATA         │
+       └─────────────────────────────────────┘
 
-     Interested in:
-     AI ┃ ML ┃ Data Science ┃ Research ┃ Web ┃ Apps
 
-     ───────────────────────────────────────────────
+                 ABOUT ME
+       ╭──────────────────────────────────────╮
+       │                                      │
+       │  I am a Software Engineering student │
+       │  with a strong interest in technology│
+       │  programming and problem solving...  │
+       │                                      │
+       ╰──────────────────────────────────────╯
 
-                    ⚰️ PROJECT ARCHIVE
 
-       ╔══════════════════════════════════════╗
-       ║ 01 // GYANADDA                      ║
-       ║ Educational Android Application     ║
-       ║ Kotlin • Android • Android Studio  ║
-       ╚══════════════════════════════════════╝
+                 TECH STACK
 
-       ╔══════════════════════════════════════╗
-       ║ 02 // MEDIBOT                       ║
-       ║ Conversational AI / Health Project  ║
-       ║ Python • Flask • AI                 ║
-       ╚══════════════════════════════════════╝
+       ┌────────────┐ ┌────────────┐
+       │ PROGRAMMING│ │ WEB        │
+       │ C          │ │ HTML5      │
+       │ C++        │ │ CSS3       │
+       │ Python     │ │ JavaScript │
+       │ Kotlin     │ │ Flask      │
+       └────────────┘ └────────────┘
 
-       ╔══════════════════════════════════════╗
-       ║ 03 // SURAH AL-KAHF                 ║
-       ║ Digital Islamic Web Project         ║
-       ║ HTML • CSS • JavaScript             ║
-       ╚══════════════════════════════════════╝
+       ┌────────────┐ ┌────────────┐
+       │ APP DEV    │ │ TOOLS      │
+       │ Android    │ │ Git        │
+       │ Kotlin     │ │ GitHub     │
+       │ Android    │ │ VS Code    │
+       │ Studio     │ │ Figma      │
+       └────────────┘ └────────────┘
 
-       ╔══════════════════════════════════════╗
-       ║ 04 // PERSONAL PORTFOLIO             ║
-       ║ My own digital profile              ║
-       ║ HTML • CSS • JavaScript • GitHub    ║
-       ╚══════════════════════════════════════╝
 
-                    🕯️ KNOWLEDGE TREE
+              🩸 PROJECT ARCHIVE 🩸
 
-       C ─ C++ ─ Python ─ Kotlin ─ JavaScript
-       │
-       ├── Web Development
-       ├── Android Development
-       ├── AI / ML
-       ├── Data Science
-       ├── Software Testing
-       ├── Computer Networks
-       └── Research
+       ╭──────────────────────────────────────╮
+       │ 01  GYANADDA                         │
+       │                                      │
+       │ Educational Android application      │
+       │ designed to make learning interactive│
+       │ through quizzes and content.         │
+       │                                      │
+       │ Kotlin • Android • Android Studio   │
+       ╰──────────────────────────────────────╯
 
-                    🎓 ACADEMIC LOG
+       ╭──────────────────────────────────────╮
+       │ 02  MEDIBOT                          │
+       │                                      │
+       │ Health-focused conversational        │
+       │ chatbot exploring conversational AI. │
+       │                                      │
+       │ Python • Flask • AI                 │
+       ╰──────────────────────────────────────╯
 
-       B.Sc. SOFTWARE ENGINEERING
+       ╭──────────────────────────────────────╮
+       │ 03  SURAH AL-KAHF                   │
+       │                                      │
+       │ Digital web project presenting       │
+       │ Surah Al-Kahf through a clean        │
+       │ interface.                           │
+       │                                      │
+       │ HTML • CSS • JavaScript             │
+       ╰──────────────────────────────────────╯
+
+       ╭──────────────────────────────────────╮
+       │ 04  PERSONAL PORTFOLIO              │
+       │                                      │
+       │ Responsive portfolio showcasing     │
+       │ my skills, projects, education,      │
+       │ interests and aspirations.           │
+       │                                      │
+       │ HTML • CSS • JavaScript • GitHub    │
+       ╰──────────────────────────────────────╯
+
+
+                 🎓 EDUCATION
+
+       B.Sc. in Software Engineering
        Undergraduate
-       
+
        Programming
        Software Development
        Databases
@@ -74,33 +104,31 @@
        Networking
        Software Testing
 
-                    🔮 CURRENTLY LOADING...
 
-       [██████████████░░░░░░]
-       
-       Programming Fundamentals
-       Web & App Development
-       Git / GitHub
-       Artificial Intelligence
-       Data Science
-       Machine Learning
-       Problem Solving
-       Software Testing
+              🌙 CURRENTLY LEARNING
+
+       ✦ Programming fundamentals
+       ✦ Web & application development
+       ✦ Git & GitHub workflows
+       ✦ Artificial Intelligence
+       ✦ Data Science & Machine Learning
+       ✦ Problem solving
+       ✦ Software Testing
+       ✦ Research
+
+
+                 🔮 ASPIRATIONS
+
+       Software Engineer
        Research
+       Data Science
+       AI / Machine Learning
+       Continuous Learning
+       Meaningful Technology
 
-                    🩸 FUTURE OBJECTIVES
 
-       ▸ Become a Software Engineer
-       ▸ Explore Research
-       ▸ Learn Data Science
-       ▸ Explore AI / ML
-       ▸ Keep Learning
-       ▸ Build Meaningful Work
+       ═══════════════════════════════════════
 
-                    📡 CONNECTION ESTABLISHED
+             LEARN • BUILD • RESEARCH • GROW
 
-       GitHub: @idcatifa
-       
-       "Learn. Build. Research. Grow."
-
-              ░▒▓█ SESSION TERMINATED █▓▒░
+       ═══════════════════════════════════════
