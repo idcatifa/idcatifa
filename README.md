@@ -1,60 +1,57 @@
 
 <div align="center">
 
-# Hi, I'm Atifa Khan 👋
+# ATIFA KHAN
 
-### Software Engineering Student | Aspiring Software Engineer | Creative Designer
+### Software Engineering Student | Developer | Creative Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Reality;Software+Engineering+Student;Developer+%7C+Designer+%7C+Learner;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Building+Digital+Experiences;Code.+Create.+Innovate." />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://idcatifa.github.io/atifa_portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/idcatifa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+<a href="https://idcatifa.github.io/atifa_portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/idcatifa">
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
-I'm a Software Engineering student passionate about technology, creative design, and building meaningful digital experiences.
+I'm Atifa, a Software Engineering student interested in building practical software solutions and creating engaging digital experiences.
 
-- 🎓 Studying Software Engineering
+- 🎓 Software Engineering Student
 - 💻 Interested in Software Development
-- 🎨 Exploring Graphic Design and UI/UX
-- 🌱 Currently expanding my development skills
-- 🔍 Interested in research and emerging technologies
-- ✨ Believe in continuous learning and creativity
+- 🎨 Graphic Design & UI/UX Enthusiast
+- 🌱 Constantly learning new technologies
+- 🔬 Aspiring Researcher
+- 🚀 Turning ideas into functional projects
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💻 Technologies & Skills
 
-### Programming Languages
+**Programming Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,php,javascript" />
+</p>
 
-### Web Development & Tools
+**Web Development & Database**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,react,flask" />
+</p>
 
-### Creative Skills
+**Tools & Creative Software**
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic_Design-FF69B4?style=for-the-badge)
-![UI UX](https://img.shields.io/badge/UI%2FUX_Design-8A2BE2?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,photoshop" />
+</p>
 
 ---
 
@@ -62,7 +59,7 @@ I'm a Software Engineering student passionate about technology, creative design,
 
 | Project | Description |
 |---|---|
-| 🌐 Personal Portfolio | My personal developer and creative portfolio |
+| 🌐 [Personal Portfolio](https://idcatifa.github.io/atifa_portfolio/) | Personal developer and design portfolio |
 | 🩺 MediBot | AI-powered healthcare chatbot |
 | 📚 GyanAdda | Educational quiz application |
 | 🔎 LostLink | University lost and found management system |
@@ -70,27 +67,27 @@ I'm a Software Engineering student passionate about technology, creative design,
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=idcatifa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=idcatifa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcatifa&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcatifa&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=idcatifa&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=idcatifa&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/idcatifa/idcatifa/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/idcatifa/idcatifa/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -98,17 +95,17 @@ I'm a Software Engineering student passionate about technology, creative design,
 
 ## 🌍 Languages
 
-- 🇧🇩 Bengali
-- 🇬🇧 English
-- 🇫🇷 French
-- 🇸🇦 Arabic (Learning)
+- Bengali
+- English
+- French
+- Arabic (Learning)
 
 ---
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=120&section=footer" />
 
 </div>
