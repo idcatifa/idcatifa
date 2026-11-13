@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Atifa Khan! 👋
 
-<!--
-**idcatifa/idcatifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Developer | Graphic Designer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student at Metropolitan University, Bangladesh, interested in software development, creative design and technology.
+
+🌐 **Explore My Portfolio:** [Atifa Khan – Personal Portfolio](https://idcatifa.github.io/atifa_portfolio/)
+
+### 💻 Technical Skills
+- **Programming:** C, C++, Java, Python
+- **Web Development:** HTML, CSS, JavaScript, PHP, React
+- **Database:** MySQL
+- **Design:** Adobe Photoshop, Photopea, Figma, Canva
+- **Other:** Data Entry, Web Research, Microsoft Office
+
+### 🚀 Featured Projects
+- **MediBot** – AI-powered medical information chatbot.
+- **Sylhet Lost & Found** – University lost and found platform.
+- **GyanAdda** – Android quiz application.
+- **Student Academic Portal** – Academic management platform.
+
+### 🌍 Connect With Me
+- **Portfolio:** https://idcatifa.github.io/atifa_portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/atifakhan138/
+- **GitHub:** https://github.com/idcatifa
+
+---
+
+*Always learning, creating and building.* ✨
