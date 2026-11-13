@@ -1,181 +1,114 @@
- <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090F,45:17142D,100:09090F&height=220&section=header&text=ATIFA%20KHAN&fontSize=56&fontColor=EDE9FE&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%2F%2F%20CREATIVE%20TECHNOLOGY&descSize=13&descColor=A78BFA&descAlignY=63" />
+<div align="center">
+
+# Hi, I'm Atifa Khan 👋
+
+### Software Engineering Student | Aspiring Software Engineer | Creative Designer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Reality;Software+Engineering+Student;Developer+%7C+Designer+%7C+Learner;Always+Learning+Something+New" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Developing+ideas+into+digital+experiences.;Exploring+software+engineering+and+design.;Building+with+curiosity+and+purpose." />
-
-<br/><br/>
-
-<a href="https://idcatifa.github.io/atifa_portfolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/atifakhan138/">
-  <img src="https://img.shields.io/badge/LINKEDIN-171723?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/CONTACT-171723?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://idcatifa.github.io/atifa_portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/idcatifa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
 </div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a Software Engineering student passionate about technology, creative design, and building meaningful digital experiences.
+
+- 🎓 Studying Software Engineering
+- 💻 Interested in Software Development
+- 🎨 Exploring Graphic Design and UI/UX
+- 🌱 Currently expanding my development skills
+- 🔍 Interested in research and emerging technologies
+- ✨ Believe in continuous learning and creativity
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Creative Skills
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-FF69B4?style=for-the-badge)
+![UI UX](https://img.shields.io/badge/UI%2FUX_Design-8A2BE2?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🌐 Personal Portfolio | My personal developer and creative portfolio |
+| 🩺 MediBot | AI-powered healthcare chatbot |
+| 📚 GyanAdda | Educational quiz application |
+| 🔎 LostLink | University lost and found management system |
+| 🍳 FridgeChef | Recipe discovery web application |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=idcatifa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcatifa&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<div align="center">
-
-`ENGINEERING` &nbsp; / &nbsp; `DEVELOPMENT` &nbsp; / &nbsp; `DESIGN`
+<img width="90%" src="https://streak-stats.demolab.com?user=idcatifa&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### 01 — PROFILE
-
-I am **Atifa Khan**, a Software Engineering student at Metropolitan University, Bangladesh, interested in developing practical software solutions and creating thoughtful digital experiences.
-
-My work brings together technical problem-solving, software development and visual creativity.
-
-Currently focused on:
-
-- Strengthening programming and software engineering fundamentals.
-- Developing web-based applications and interactive experiences.
-- Exploring artificial intelligence and emerging technologies.
-- Creating visual identities and digital designs.
-
----
-
-### 02 — TECHNICAL EXPERTISE
-
-**PROGRAMMING LANGUAGES**
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
-</div>
-
-**WEB DEVELOPMENT & DATABASES**
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,mysql,express&theme=dark" />
-</div>
-
-**DEVELOPMENT TOOLS & DESIGN**
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode,androidstudio&theme=dark" />
-</div>
-
-Additional tools: Photopea, Canva, Microsoft Office and Google Sheets.
-
----
-
-### 03 — SELECTED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / MEDIBOT**
-
-AI-powered medical information chatbot built to provide conversational access to general health information.
-
-`Python` `Flask` `Groq API`
-
-</td>
-<td width="50%" valign="top">
-
-**02 / SYLHET LOST & FOUND**
-
-A university-focused platform for reporting lost belongings, discovering found items and managing ownership claims.
-
-`PHP` `MySQL` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / GYANADDA**
-
-An Android quiz application designed to make learning more interactive.
-
-`Kotlin` `Android Studio`
-
-</td>
-<td width="50%" valign="top">
-
-**04 / STUDENT ACADEMIC PORTAL**
-
-A web application concept for organizing student academic information and activities.
-
-`React` `Express.js` `MySQL`
-
-</td>
-</tr>
-</table>
-
----
-
-### 04 — GITHUB ANALYTICS
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=idcatifa&show_icons=true&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=8B5CF6&text_color=D4D4E0" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcatifa&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=D4D4E0" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=idcatifa&bg_color=09090F&color=A78BFA&line=8B5CF6&point=DDD6FE&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
+<img src="https://raw.githubusercontent.com/idcatifa/idcatifa/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-### 05 — CREATIVE PRACTICE
+## 🌍 Languages
 
-Beyond software development, I explore graphic design, branding, visual communication and digital content creation.
-
-I enjoy combining functionality with aesthetics to create work that is both useful and visually considered.
-
----
-
-### 06 — EDUCATION
-
-**BSc in Software Engineering**
-
-Metropolitan University, Bangladesh  
-2024 – 2028 · Currently pursuing
-
-**French Language**
-
-Institute of Modern Languages, SUST  
-January – June 2026 · CGPA 3.79
+- 🇧🇩 Bengali
+- 🇬🇧 English
+- 🇫🇷 French
+- 🇸🇦 Arabic (Learning)
 
 ---
-
-### 07 — CONNECT
 
 <div align="center">
 
-**OPEN TO LEARNING, COLLABORATION AND NEW OPPORTUNITIES.**
+### ✨ Thanks for visiting my profile!
 
-<a href="https://idcatifa.github.io/atifa_portfolio/">PORTFOLIO</a>
-&nbsp; / &nbsp;
-<a href="https://github.com/idcatifa">GITHUB</a>
-&nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/atifakhan138/">LINKEDIN</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=idcatifa&style=flat-square&color=8B5CF6&label=PROFILE+VISITS" />
-
-<br/><br/>
-
-<sub>ATIFA KHAN © 2026 — DESIGNED WITH PURPOSE.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090F,50:29205B,100:09090F&height=75&section=footer" />
